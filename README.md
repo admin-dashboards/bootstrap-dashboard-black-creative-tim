@@ -44,9 +44,9 @@ Black Dashboard comes packed with all plugins that you might need inside a proje
 
 ### Related [Admin Dashboards](https://appseed.us/admin-dashboards/) articles
 
-- [Admin Dashboards](https://dev.to/sm0ke/admin-dashboards-open-source-and-free-4aep) - Open-Source and Free, article published on Dev.to
+- [Admin Dashboards](https://dev.to/sm0ke/admin-dashboards-open-source-and-free-4aep) - Open-Source and Free, published on Dev.to
 - [Vue Dashboard](https://dev.to/sm0ke/vue-dashboard-open-source-apps-1gd1) - Open-Source and Free
-- [React Dashboards - Open-Source and Free](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j)
+- [React Dashboards](https://dev.to/sm0ke/react-dashboards-open-source-apps-1c7j) - Open-Source and Free
 - [Admin Dashboards](https://blog.appseed.us/admin-dashboards-open-source-built-with-automation-tools/) - Open-Source and built with automation tools
 
 <br />
